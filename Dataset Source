@@ -2,6 +2,4 @@
 
 The raw medical appointment dataset containing over 110,000+ patient records is hosted directly on Kaggle. 
 
-📥 **[Download the Dataset from Kaggle Here](https://www.kaggle.com/datasets/joniarroba/noshowappointments)**
-
-*Note: To run the production pipeline inside the `src/` directory, download the CSV file from the link above and place it inside this `data/` folder.* 
+📥 **[Download the Dataset from Kaggle Here](https://www.kaggle.com/datasets/joniarroba/noshowappointments)*
