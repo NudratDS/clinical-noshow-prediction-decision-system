@@ -121,4 +121,10 @@ I engineer white-label decision frameworks, readmission mitigation suites, fraud
 
 *"Strategy Sharpened to the Third Decimal"*
 
+# Clinical Dataset Source
+
+The raw medical appointment dataset containing over 110,000+ patient records is hosted directly on Kaggle. 
+
+📥 **[Download the Dataset from Kaggle Here](https://www.kaggle.com/datasets/joniarroba/noshowappointments)**
+
 
