@@ -22,6 +22,9 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Fjcjg0bWFzaDc0bDlmaTNrcTRrdzR6NWV5dzN0NTdoZ3A0ZG9mayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVnUxsQAqjLAyjgboq/giphy.gif" width="50%" alt="Header GIF">
+</div>
 
 ## The Business Challenge & Clinical Impact
 
